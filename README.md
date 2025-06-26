@@ -23,7 +23,7 @@ Extract data from one or more tables using SQL SELECT statements. Learn how to f
 - Using `WHERE`, `AND`, `OR`, and `BETWEEN` to filter specific records.
 - Applying `LIKE` for pattern-based searches.
 - Sorting query results using `ORDER BY` in both ascending and descending order.
-- Practiced using the LIMIT clause to restrict the number of rows returned by a query.
+- Practiced using the `LIMIT` clause to restrict the number of rows returned by a query.
 - Improved confidence in reading and analyzing data using SQL queries.
 
 ---
