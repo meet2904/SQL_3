@@ -7,9 +7,7 @@ Extract data from one or more tables using SQL SELECT statements. Learn how to f
 ---
 
 ## 🧰 Tools Used
-- Microsoft SQL Server / SSMS (SQL Server Management Studio)
-- SQL scripting
-
+- Microsoft SQL Server 
 ---
 
 ## 📁 Deliverables
@@ -17,13 +15,6 @@ Extract data from one or more tables using SQL SELECT statements. Learn how to f
   - `SELECT *` and specific columns
   - `WHERE`, `AND`, `OR`, `LIKE`, `BETWEEN`
   - `ORDER BY`
-
----
-
-## 🗃️ Tables Queried
-- `Booking`
-- `Movie`
-
 
 ---
 
@@ -38,9 +29,3 @@ Extract data from one or more tables using SQL SELECT statements. Learn how to f
 
 ## 📌 Outcome
 A solid understanding of how to query a database and retrieve meaningful information using various SQL clauses and filters.
-
----
-
-## 🧠 Author
-**Meet Rajput**  
-CSE Student | SQL Enthusiast | On a journey to backend mastery 🚀
