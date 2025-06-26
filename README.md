@@ -13,7 +13,7 @@ Extract data from one or more tables using SQL SELECT statements. Learn how to f
 ## 📁 Deliverables
 - SQL queries using:
   - `SELECT *` and specific columns
-  - `WHERE`, `AND`, `OR`, `LIKE`, `BETWEEN`
+  - `WHERE`, `AND`, `OR`, `LIKE`, `BETWEEN`, `LIMIT`
   - `ORDER BY`
 
 ---
